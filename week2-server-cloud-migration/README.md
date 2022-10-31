@@ -32,7 +32,8 @@ More such meet-ups are scheduled soon both virtually and physically in various p
 # follow me in Linkedin
 
 - [Vijayabalan Balakrishnan ](https://www.linkedin.com/in/vijaystack/)
-# Community and Social Footprints :
+# Community and Social Footprints :  
+
 💥🧑‍💻 
 
 - [GitHub](https://github.com/cloudnloud)
