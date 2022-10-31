@@ -29,8 +29,8 @@ I am planning to start brainstorming weekend series to create many strong leader
 
 Topic | What to learn | Type of UseCase | Description
 :------|:------|:------|:------:
-Week 1 | [Week 1](/week1-Cloud-General-Introduction/README.md) | **Introduction** | Cloud Deep Dive 
-Week 2 | [Week 2](/week2-server-cloud-migration/README.md) | **Cloud Migration** | Cloud/Server Migration Deep Dive 
+Week 1 | [Week 1](/week1-Cloud-General-Introduction) | **Introduction** | Cloud Deep Dive 
+Week 2 | [Week 2](/week2-server-cloud-migration) | **Cloud Migration** | Cloud/Server Migration Deep Dive 
 
 
 or any career related queries feel free to  **WhatsApp me**
